@@ -32,7 +32,7 @@
 }
 
 .record span {
-    flex: 1;
+    flex: 1; /*TODO Revisar como es que esto me alinea los contenedores*/
 }
 
 
